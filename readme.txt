@@ -6,4 +6,7 @@ new develop-zjg branch.
 this is uner zjg branch.
 this is under develop branch.
 
-hehe. gogo 
+hehe. gogo.
+
+change the url, so I can push the changes to git repository.
+https://github.com/mdayday06/hello-world.git
