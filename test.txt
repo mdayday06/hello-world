@@ -3,3 +3,5 @@ dddddd
 
 2017.03.07, developer branch is created.
 now, i will commit it to repository.
+
+reset file before sevaral commit id.
