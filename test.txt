@@ -5,3 +5,5 @@ dddddd
 now, i will commit it to repository.
 
 reset file before sevaral commit id.
+
+afasfasfasfa
