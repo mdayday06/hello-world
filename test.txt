@@ -7,5 +7,3 @@ now, i will commit it to repository.
 reset file before sevaral commit id.
 
 now, i have already delete the webcontent/
-
-1
